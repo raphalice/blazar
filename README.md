@@ -2,7 +2,7 @@
 
 Blazar - Get your future interest at warp velocity
 
-- <a href="https://blazar.now.sh" target="_blank">Live demo</a>
+- <a href="https://blazar.now.sh" target="_blank">Live demo</a> (on Kovan)
 - Blazar was an ETHLondon finalist. Read the <a href="https://devpost.com/software/daj-get-your-future-interest-right-now" target="_blank">Devpost write-up</a>
 
 
